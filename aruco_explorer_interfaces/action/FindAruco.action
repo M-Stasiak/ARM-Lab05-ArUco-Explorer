@@ -1,0 +1,8 @@
+bool start
+---
+int32[] ids
+geometry_msgs/Point[] positions
+---
+int32 visited_points
+int32 total_points
+int32 found_tags
